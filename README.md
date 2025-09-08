@@ -9,7 +9,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![github-snake](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/snake)
+![github-snake](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/.github/workflows/blank.yml)
 
 
 ---
