@@ -1,3 +1,7 @@
+## 🐍 Contribution Snake
+![snake gif](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/output/github-snake.svg)
+
+
 # 👋 Hi there, I'm Mahdi Nazari  
 
 💻 **Python Developer | Web & Android Enthusiast**  
