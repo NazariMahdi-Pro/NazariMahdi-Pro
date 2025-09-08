@@ -8,12 +8,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![github-snake](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/.github/workflows/blank.yml)
-
-
----
-
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
