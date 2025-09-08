@@ -1,5 +1,5 @@
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/tree/main/.github/workflows)
+![snake gif](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/.github/workflows/snake.yml)
 
 
 # 👋 Hi there, I'm Mahdi Nazari  
