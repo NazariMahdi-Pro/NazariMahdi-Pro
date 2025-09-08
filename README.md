@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/banner-dark.svg" alt="Hi, I'm Mahdi Nazari"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=AAAAAA&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Mahdi+Nazari" alt="Typing SVG"/>
 </p>
 
 💻 **Python Developer | Web & Android Enthusiast**  
@@ -8,43 +8,64 @@
 
 ---
 
-## 🚀 About Me
-I’m a computer science student and a passionate self-taught developer.  
-I enjoy working on projects that challenge me to think creatively, whether it’s a **terminal-based tool**, a **fancy UI web app**, or even experimenting with **Android development**.  
+## 🐍 Contribution Snake
+![github-snake](https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/snake)
 
-- 🐍 Writing Python code is my daily bread.  
-- 🌐 Building interactive web applications with JavaScript.  
-- 📱 Exploring Android development.  
-- 🎨 Strong focus on **user experience** and design.  
-- 🤝 Open to collaboration, teamwork, and contributing to open-source projects.  
-
-I believe in **learning by building** — every project I create is not just a tool, but also a way to learn something new.  
 
 ---
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=181717)
 
 ---
 
 ## 🌟 Featured Projects
-- 🔹 [**Smart Task Manager**](https://github.com/NazariMahdi-Pro/smart-task-manager) – Terminal-based task manager built with Python  
-- 🔹 [**Cool Calculator**](https://github.com/NazariMahdi-Pro/cool-calculator) – Stylish CLI calculator with history & progress tracker  
-- 🔹 [**Cool Calculator WebApp**](https://github.com/NazariMahdi-Pro/cool-calculator-webApp) – Neon/Glass styled calculator with animations  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NazariMahdi-Pro/smart-task-manager">
+        <img src="https://raw.githubusercontent.com/NazariMahdi-Pro/assets/main/smart-task-manager.gif" width="200" alt="Smart Task Manager"/>
+        <br>
+        <b>Smart Task Manager</b>
+      </a>
+      <br>
+      Python CLI tool to manage tasks efficiently
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazariMahdi-Pro/cool-calculator-webApp">
+        <img src="https://raw.githubusercontent.com/NazariMahdi-Pro/assets/main/cool-calculator-webApp.gif" width="200" alt="Cool Calculator WebApp"/>
+        <br>
+        <b>Cool Calculator WebApp</b>
+      </a>
+      <br>
+      Neon-styled web calculator with animations
+    </td>
+    <td align="center">
+      <a href="https://github.com/NazariMahdi-Pro/another-project">
+        <img src="https://raw.githubusercontent.com/NazariMahdi-Pro/assets/main/another-project.gif" width="200" alt="Another Project"/>
+        <br>
+        <b>Another Project</b>
+      </a>
+      <br>
+      Description of the project goes here
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Current Goals
-- Build more **open-source CLI tools** that make daily tasks easier.  
-- Improve my skills in **JavaScript** and explore modern frameworks.  
-- Dive deeper into **Android development**.  
-- Start contributing to **open-source projects** and collaborate with other developers.  
+- Build more **open-source CLI tools** that make daily tasks easier  
+- Improve skills in **JavaScript** and modern frameworks  
+- Dive deeper into **Android development**  
+- Contribute to **open-source projects** and collaborate  
 
 ---
 
