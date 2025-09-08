@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=AAAAAA&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mahdi+Nazari!+%F0%9F%91%8B+%F0%9F%94%8D" alt="Typing SVG"/>
+  <img src="https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/banner-dark.svg" alt="Hi, I'm Mahdi Nazari"/>
 </p>
+
 
 # 👋 Hi, I'm Mahdi Nazari  
 
