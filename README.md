@@ -2,9 +2,6 @@
   <img src="https://github.com/NazariMahdi-Pro/NazariMahdi-Pro/blob/main/banner-dark.svg" alt="Hi, I'm Mahdi Nazari"/>
 </p>
 
-
-# 👋 Hi, I'm Mahdi Nazari  
-
 💻 **Python Developer | Web & Android Enthusiast**  
 🎯 Passionate about building CLI tools, creative web apps, and experimenting with new technologies  
 📍 Based in Tehran, Iran  
