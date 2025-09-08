@@ -2,25 +2,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # هر روز نیمه شب
-  workflow_dispatch: # می‌تونی دستی هم اجرا کنی
+    - cron: "0 0 * * *" # هر روز نیمه شب اجرا می‌شود
+  workflow_dispatch: # می‌توان دستی هم اجرا کرد
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # مرحله ۱: کلون ریپو
       - uses: actions/checkout@v3
 
+      # مرحله ۲: ساخت Snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: NazariMahdi-Pro
           outputs: dist/github-snake.svg
 
-      - name: Deploy Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # مرحله ۳: Push به شاخه output با PAT
+      - name: Push Snake to output branch
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add dist/github-snake.svg
+          git commit -m "Update GitHub Snake"
+          git push --force "https://${{ secrets.GH_PAT }}@github.com/NazariMahdi-Pro/NazariMahdi-Pro.git" output
